@@ -1,0 +1,30 @@
+body {
+    background: greenyellow;
+    color: yellow;
+    text-shadow: black;
+    text-emphasis-color: black;
+    -webkit-text-fill-color: black;
+
+    
+  }
+  a {
+    color: #D1D1D1;
+  }
+  .container {
+    
+    text-align: left;
+    max-width: 580px;
+    margin: 1em auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: black;
+    text-emphasis-color: black;
+    
+    
+  }
+  code {
+    padding: 1em;
+    display: block;
+    overflow-wrap: break-word;
+    background: #662B61;
+    border-radius: 1em;
+  }
