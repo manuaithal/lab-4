@@ -10,7 +10,7 @@ fetch(loc)
     latitude = data[0].lat
     longitude  = data[0].lon
   })
-  .catch(error => console.error('Error:', error))
+  .catch(error => alert('Location not valid'))
 
 
 
